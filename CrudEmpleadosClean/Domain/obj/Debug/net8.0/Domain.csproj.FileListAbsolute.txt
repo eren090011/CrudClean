@@ -1,0 +1,16 @@
+C:\Users\juant\Documents\CrudEmpleadosGit\CrudEmpleadosClean\CrudEmpleadosClean\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\juant\Documents\CrudEmpleadosGit\CrudEmpleadosClean\CrudEmpleadosClean\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\juant\Documents\CrudEmpleadosGit\CrudEmpleadosClean\CrudEmpleadosClean\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\juant\Documents\CrudEmpleadosGit\CrudEmpleadosClean\CrudEmpleadosClean\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juant\Documents\CrudEmpleadosGit\CrudEmpleadosClean\CrudEmpleadosClean\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\juant\Documents\CrudEmpleadosGit\CrudEmpleadosClean\CrudEmpleadosClean\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\juant\Documents\CrudEmpleadosGit\CrudEmpleadosClean\CrudEmpleadosClean\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\juant\Documents\CrudEmpleadosGit\CrudEmpleadosClean\CrudEmpleadosClean\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\juant\Documents\CrudEmpleadosGit\CrudEmpleadosClean\CrudEmpleadosClean\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\juant\Documents\CrudEmpleadosGit\CrudEmpleadosClean\CrudEmpleadosClean\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\juant\Documents\CrudEmpleadosGit\CrudEmpleadosClean\CrudEmpleadosClean\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\juant\Documents\CrudEmpleadosGit\CrudEmpleadosClean\CrudEmpleadosClean\Domain\obj\Debug\net8.0\ref\Domain.dll
+<<<<<<< Updated upstream
+C:\Users\juant\Documents\CrudEmpleadosGit\CrudEmpleadosClean\CrudEmpleadosClean\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+=======
+>>>>>>> Stashed changes

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+6eN0PpQUTw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\juant\\Documents\\CrudEmpleadosGit\\CrudEmpleadosClean\\CrudEmpleadosClean\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juant\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\juant\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\juant\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
